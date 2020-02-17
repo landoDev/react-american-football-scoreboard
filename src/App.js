@@ -10,7 +10,7 @@ function App() {
   const [homeTeam, setHomeTeam] = useState('Tar Heels');
   const [awayTeam, setAwayTeam] = useState('Blue Devils');
   const scoreboardStyle = {
-    backgroundColor: 'black', 
+    backgroundColor: 'navy', 
     borderColor: 'skyblue'
   }
   const homeCardStyle = {
