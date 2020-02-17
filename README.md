@@ -28,7 +28,7 @@ In this project, you build an app that diplays a scoreboard for an american foot
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master.
 - [ ] Do your magic!
@@ -58,11 +58,11 @@ const [value, setValue] = useState(); // Give these better names, and decide whe
 
 ### STEP 4 - Add Click Functionality to Increment the Scores
 
-- [ ] Add the `onClick` handler to each function
-- [ ] Determine how much you will need to increment the score for each button
-  - [ ] A touchdown is worth 7 points (assume the following extra point is made)
-  - [ ] A field goal is worth 3 points
-- [ ] Inside the click handlers on each button, use the setter functions for each team to increment the appropriate team's score by the correct amount.
+- [x] Add the `onClick` handler to each function
+- [x] Determine how much you will need to increment the score for each button
+  - [x] A touchdown is worth 7 points (assume the following extra point is made)
+  - [x] A field goal is worth 3 points
+- [x] Inside the click handlers on each button, use the setter functions for each team to increment the appropriate team's score by the correct amount.
 
 ## Stretch Problems
 
